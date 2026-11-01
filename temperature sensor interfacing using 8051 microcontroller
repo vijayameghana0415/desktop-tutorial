@@ -1,8 +1,0 @@
-Introduce a buzzer for high-temperature alerts.
-Add wireless temperature monitoring.
-Store temperature readings for future analysis.
-Use more accurate digital temperature sensors.
-Develop a mobile-based temperature monitoring system.
-15. Conclusion
-The Temperature Sensor Interfacing System using the 8051 microcontroller demonstrates temperature measurement and monitoring using a temperature sensor. It combines ADC interfacing, LCD interfacing, and Embedded C programming to measure and display temperature readings.
-The project provides practical experience in microcontroller programming, sensor interfacing, and embedded-system development through software simulation.
